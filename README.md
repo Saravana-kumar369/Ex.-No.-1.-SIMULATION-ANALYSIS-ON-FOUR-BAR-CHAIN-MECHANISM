@@ -47,12 +47,10 @@
 
 ## Output:
 
-![Screenshot (210)](https://github.com/Saravana-kumar369/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/117925254/59eb4d75-65bb-4ad4-b37d-e3e1bac80e01)
-
-![Screenshot (211)](https://github.com/Saravana-kumar369/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/117925254/535e30f9-8778-40a5-8237-9561d2e60636)
+![WhatsApp Image 2023-06-13 at 18 24 10](https://github.com/Saravana-kumar369/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/117925254/494872e4-7e90-44a4-ac12-9514cd62a77b)
 
 
-
+![WhatsApp Image 2023-06-13 at 18 24 41](https://github.com/Saravana-kumar369/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/117925254/39cc6134-3796-41a9-8177-d9c644521fb1)
 
 
 ### Name:SARAVANAKUMAR M
